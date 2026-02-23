@@ -4,7 +4,7 @@ import math
 import pandas as pd
 
 
-NUM_SPLITS = 40
+NUM_SPLITS = 30
 
 
 def split_excel(input_file):
